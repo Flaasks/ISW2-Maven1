@@ -13,7 +13,7 @@
     <!-- Nome e descrizione -->
     <name>esempio-maven</name>
     <description>Progetto di esempio per esercizio Ingegneria del Software 2</description>
-    <url>https://github.com/Flaasks/esempio-maven</url>
+    <url>https://github.com/Flaasks/ISW2-Maven1</url>
 
     <!-- Versione Java da usare -->
     <properties>
